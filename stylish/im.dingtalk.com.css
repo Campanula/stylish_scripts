@@ -1,0 +1,10 @@
+@-moz-document domain("im.dingtalk.com") {
+    #layout-main {
+    	width: 100%;
+    	flex: 0 1 100%;
+    }
+    #body {
+    	height: 100%;
+    }
+}
+
